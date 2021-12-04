@@ -11,4 +11,3 @@
 
 ⚡ ...
 
-[![Visits Badge](https://badges.pufler.dev/visits/Azamat-Sult)](https://badges.pufler.dev)
