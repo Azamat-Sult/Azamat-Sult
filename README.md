@@ -29,6 +29,6 @@
 
 ⚡ "Tracker" Java SE, PostgreSQL, JDBC, Liquibase, JUnit4
 
-68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574436f64652d4646413131363f7374796c653d666c6174266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d626c61636b
+[![LeetCode user asultangareev](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasultangareev&logo=leetcode&logoColor=yellow)](https://leetcode.com/asultangareev/)
 
 ![](https://komarev.com/ghpvc/?username=Azamat-Sult&color=brightgreen&style=plastic)
