@@ -31,6 +31,6 @@
 
 [![LeetCode user asultangareev](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasultangareev&logo=leetcode&logoColor=yellow)](https://leetcode.com/asultangareev/)
 
-[![](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/engineer)
+[![](https://badgen.net/badge/icon/telegram?icon=telegram&label)](https://t.me/@asultangareev)
 
 ![](https://komarev.com/ghpvc/?username=Azamat-Sult&color=brightgreen&style=plastic)
