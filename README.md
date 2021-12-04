@@ -29,6 +29,4 @@
 
 ⚡ "Tracker" Java SE, PostgreSQL, JDBC, Liquibase, JUnit4
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=asultangareev=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 ![](https://komarev.com/ghpvc/?username=Azamat-Sult&color=brightgreen&style=plastic)
