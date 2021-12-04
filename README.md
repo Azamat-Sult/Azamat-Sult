@@ -9,10 +9,10 @@
 
 Мои учебные проекты:
 
-⚡ ...
+⚡ "CHAT_REST_API" - REST-сервис, реализующий чат c комнатами. Стек: Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, TravisCI, JaCoCo, Checkstyle
+⚡ "Forum" Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku
+⚡ "Car Sales" Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
 
-"Car Sales" Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
-"Forum" Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku
 "Car Accident" Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
 "Todo List" Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
 "Cinema" Java EE Servlets, PostgreSQL, JDBC, Liquibase, JUnit4
