@@ -29,6 +29,6 @@
 
 ⚡ "Tracker" Java SE, PostgreSQL, JDBC, Liquibase, JUnit4
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/asultangareev/)  
+68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574436f64652d4646413131363f7374796c653d666c6174266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d626c61636b
 
 ![](https://komarev.com/ghpvc/?username=Azamat-Sult&color=brightgreen&style=plastic)
