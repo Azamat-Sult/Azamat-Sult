@@ -29,4 +29,6 @@
 
 ⚡ "Tracker" Java SE, PostgreSQL, JDBC, Liquibase, JUnit4
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/asultangareev/)  
+
 ![](https://komarev.com/ghpvc/?username=Azamat-Sult&color=brightgreen&style=plastic)
