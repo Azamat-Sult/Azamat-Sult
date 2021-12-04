@@ -11,4 +11,4 @@
 
 ⚡ ...
 
-![](https://komarev.com/ghpvc/?username=Azamat-Sult)
+![](https://komarev.com/ghpvc/?username=Azamat-Sult&color=brightgreen&style=plastic)
