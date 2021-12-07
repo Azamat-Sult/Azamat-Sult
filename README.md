@@ -9,7 +9,8 @@
 
 Мои учебные проекты:
 
-⚡ ["Chat REST API"](https://github.com/Azamat-Sult/job4j_chat) - REST-сервис, реализующий чат c комнатами. Стек: Spring Boot 2.6.0 (Data JPA, Security, Web, Validation), REST API, JWT, PostgresSQL, TravisCI, JaCoCo, Checkstyle, JSON, JUnit, H2db
+⚡ ["Chat REST API"](https://github.com/Azamat-Sult/job4j_chat) - REST-сервис, реализующий чат c комнатами.
+Стек: Spring Boot 2.6.0 (Data JPA, Security, Web, Validation), REST API, JWT, PostgresSQL, TravisCI, JaCoCo, Checkstyle, JSON, JUnit, H2db
 
 ⚡ "Car Accident" Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
 
