@@ -21,11 +21,11 @@
 
 Стек: Spring Boot 2.5.6 (Data JPA, Security, Test, Web), JSP, JSTL, PostgreSQL, Maven, Checkstyle, JUnit, H2db, Liquibase
 
-Heroku: [https://forumjob4j.herokuapp.com/](https://forumjob4j.herokuapp.com/)
+Форум, развернутый на Heroku: [https://forumjob4j.herokuapp.com/](https://forumjob4j.herokuapp.com/)
 
 ⚡ ["Car Sales"](https://github.com/Azamat-Sult/job4j_cars) - Площадка для размещения объявлений о продаже автомобилей подобный авто.ру или авито
 
-Стек: Servlets, JSP, JSTL, JSON, Apache FileUpload, PostgreSQL, Hibernate, Log4j, Checkstyle
+Стек: Servlets, JSP, JSTL, JSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j, Checkstyle
 
 ⚡ "Todo List" Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
 
