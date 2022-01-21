@@ -17,7 +17,9 @@
 
 Стек: Spring 5.3.13 (Web, ORM, Data JPA, Security), JSP, JSTL, PostgresSQL, Hibernate, Tomcat, Checkstyle, Log4j
 
-⚡ "Forum" Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku
+⚡ ["Forum"](https://github.com/Azamat-Sult/job4j_forum) - Реализация интернет форума
+Стек: Spring Boot 2.5.6 (Data JPA, Security, Test, Web), JSP, JSTL, PostgreSQL, Maven, Checkstyle, JUnit, H2db, Liquibase
+Heroku: [https://forumjob4j.herokuapp.com/](https://forumjob4j.herokuapp.com/)
 
 ⚡ "Car Sales" Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
 
