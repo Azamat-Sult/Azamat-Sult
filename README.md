@@ -13,7 +13,7 @@
 
 Стек: Spring Boot 2.6.0 (Data JPA, Security, Web, Validation), REST API, JWT, PostgresSQL, TravisCI, JaCoCo, Checkstyle, JSON, JUnit, H2db
 
-⚡ ["Car Accident"](https://github.com/Azamat-Sult/job4j_car_accident) - Приложение для отслеживания ДТП.
+⚡ ["Car Accident"](https://github.com/Azamat-Sult/job4j_car_accident) - Приложение для регистрации ДТП.
 
 Стек: Spring 5.3.13 (Web, ORM, Data JPA, Security), JSP, JSTL, PostgresSQL, Hibernate, Tomcat, Checkstyle, Log4j
 
