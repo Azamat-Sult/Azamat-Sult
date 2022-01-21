@@ -39,7 +39,9 @@
 
 Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
 
-⚡ "Pooh JMS" Java SE, Concurrency, Sockets, Java IO, GSON
+⚡ ["Pooh JMS"](https://github.com/Azamat-Sult/job4j_pooh) - 
+
+Стек: Java SE, Concurrency, Sockets, Java IO, GSON
 
 ⚡ "Grabber" Java SE, PostgreSQL, JDBC, Liquibase, Quartz, JSOUP
 
