@@ -35,7 +35,7 @@
 
 Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
 
-⚡ "Dream Job" - Биржа труда: вакансии и кандидаты
+⚡ ["Dream Job"](https://github.com/Azamat-Sult/job4j_dreamjob) - Биржа труда: вакансии и кандидаты
 
 Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
 
