@@ -35,7 +35,9 @@
 
 Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
 
-⚡ "Dream Job" Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock
+⚡ "Dream Job" - Биржа труда: вакансии и кандидаты
+
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
 
 ⚡ "Pooh JMS" Java SE, Concurrency, Sockets, Java IO, GSON
 
