@@ -23,7 +23,9 @@
 
 Heroku: [https://forumjob4j.herokuapp.com/](https://forumjob4j.herokuapp.com/)
 
-⚡ "Car Sales" Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
+⚡ ["Car Sales"](https://github.com/Azamat-Sult/job4j_cars) - Площадка для размещения объявлений о продаже автомобилей подобный авто.ру или авито
+
+Стек: Servlets, JSP, JSTL, JSON, Apache FileUpload, PostgreSQL, Hibernate, Log4j, Checkstyle
 
 ⚡ "Todo List" Java EE, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat
 
