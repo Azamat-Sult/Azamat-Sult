@@ -27,7 +27,7 @@
 
 Стек: Servlets, JSP, JSTL, GSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j, Checkstyle
 
-⚡ ["Todo List"](https://github.com/Azamat-Sult/job4j_todo) -
+⚡ ["Todo List"](https://github.com/Azamat-Sult/job4j_todo) - Планировщик задач ToDo
 
 Стек: Servlets, JSP, JSTL, GSON, Tomcat, PostgreSQL, H2db, Hibernate, Log4j, Checkstyle
 
