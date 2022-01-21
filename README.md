@@ -25,13 +25,15 @@
 
 ⚡ ["Car Sales"](https://github.com/Azamat-Sult/job4j_cars) - Площадка для размещения объявлений о продаже автомобилей подобный авто.ру или авито
 
-Стек: Servlets, JSP, JSTL, GSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j, Checkstyle
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j, Checkstyle
 
 ⚡ ["Todo List"](https://github.com/Azamat-Sult/job4j_todo) - Планировщик задач ToDo
 
-Стек: Servlets, JSP, JSTL, GSON, Tomcat, PostgreSQL, H2db, Hibernate, Log4j, Checkstyle
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, H2db, Hibernate, Log4j, Checkstyle
 
-⚡ "Cinema" Java EE Servlets, PostgreSQL, JDBC, Liquibase, JUnit4
+⚡ ["Cinema"](https://github.com/Azamat-Sult/job4j_cinema) - Сервис бронирования билетов в кинотеатр
+
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
 
 ⚡ "Dream Job" Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock
 
