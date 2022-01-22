@@ -43,7 +43,9 @@
 
 Стек: Java Core, Concurrency, Sockets, Java IO
 
-⚡ "Grabber" Java SE, PostgreSQL, JDBC, Liquibase, Quartz, JSOUP
+⚡ ["Grabber"](https://github.com/Azamat-Sult/job4j_grabber) - Агрегатор вакансий Java разработчиков
+
+Стек: Java Core, PostgreSQL, JDBC, Quartz, JSOUP
 
 ⚡ "Tracker" Java SE, PostgreSQL, JDBC, Liquibase, JUnit4
 
