@@ -17,39 +17,39 @@
 
 Стек: Spring 5.3.13 (Web, ORM, Data JPA, Security), JSP, JSTL, PostgresSQL, Hibernate, Tomcat, Checkstyle, Log4j
 
-⚡ ["Forum"](https://github.com/Azamat-Sult/job4j_forum) - Реализация интернет форума
+⚡ ["Forum"](https://github.com/Azamat-Sult/job4j_forum) - **Реализация интернет форума**
 
-Стек: Spring Boot 2.5.6 (Data JPA, Security, Test, Web), JSP, JSTL, PostgreSQL, Maven, Checkstyle, JUnit, H2db, Liquibase
+Стек: Spring Boot 2.5.6 (Data JPA, Security, Test, Web), JSP, JSTL, PostgreSQL, JUnit, H2db, Liquibase, Maven
 
 Форум, развернутый на Heroku: [https://forumjob4j.herokuapp.com/](https://forumjob4j.herokuapp.com/)
 
 ⚡ ["Car Sales"](https://github.com/Azamat-Sult/job4j_cars) - **Площадка для размещения объявлений о продаже автомобилей подобный авто.ру или авито**
 
-Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j, Maven
 
 ⚡ ["Todo List"](https://github.com/Azamat-Sult/job4j_todo) - **Планировщик задач ToDo**
 
-Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Hibernate, Log4j
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Hibernate, Log4j, Maven
 
 ⚡ ["Cinema"](https://github.com/Azamat-Sult/job4j_cinema) - **Сервис бронирования билетов в кинотеатр**
 
-Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Maven
 
 ⚡ ["Dream Job"](https://github.com/Azamat-Sult/job4j_dreamjob) - **Биржа труда: вакансии и кандидаты**
 
-Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Maven
 
 ⚡ ["Pooh JMS"](https://github.com/Azamat-Sult/job4j_pooh) - **Аналог сервиса асинхронной очереди RabbitMQ**
 
-Стек: Java Core, Concurrency, Sockets, Java IO
+Стек: Java Core, Concurrency, Sockets, Java IO, Maven
 
 ⚡ ["Grabber"](https://github.com/Azamat-Sult/job4j_grabber) - **Агрегатор вакансий Java разработчиков**
 
-Стек: Java Core, PostgreSQL, Quartz, JSOUP
+Стек: Java Core, PostgreSQL, Quartz, JSOUP, Maven
 
 ⚡ ["Tracker"](https://github.com/Azamat-Sult/job4j_tracker) - **Консольное хранилище(трекер) для заявок**
 
-Стек: Java Core, PostgreSQL, H2db, Hibernate, JUnit
+Стек: Java Core, PostgreSQL, H2db, Hibernate, JUnit, Maven
 
 [![LeetCode user asultangareev](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasultangareev&logo=leetcode&logoColor=yellow)](https://leetcode.com/asultangareev/)
 
