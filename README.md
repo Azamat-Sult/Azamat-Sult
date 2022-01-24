@@ -11,11 +11,11 @@
 
 ⚡ ["Chat REST API"](https://github.com/Azamat-Sult/job4j_chat) - **REST-сервис, реализующий чат c комнатами**
 
-Стек: Spring Boot 2.6.0 (Data JPA, Security, Web, Validation), REST API, JWT, PostgresSQL, GSON, JUnit, H2db, Maven
+Стек: Spring Boot 2.6.0 (Data JPA, Security, Web, Validation), REST API, JWT, PostgreSQL, GSON, JUnit, H2db, Maven
 
 ⚡ ["Car Accident"](https://github.com/Azamat-Sult/job4j_car_accident) - **Приложение для регистрации ДТП**
 
-Стек: Spring 5.3.13 (Web, ORM, Data JPA, Security), JSP, JSTL, PostgresSQL, Hibernate, Tomcat, Log4j, Maven
+Стек: Spring 5.3.13 (Web, ORM, Data JPA, Security), JSP, JSTL, PostgreSQL, Hibernate, Tomcat, Log4j, Maven
 
 ⚡ ["Forum"](https://github.com/Azamat-Sult/job4j_forum) - **Реализация интернет форума**
 
