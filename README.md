@@ -47,7 +47,7 @@
 
 Стек: Java Core, PostgreSQL, Quartz, JSOUP
 
-⚡ ["Tracker"](https://github.com/Azamat-Sult/job4j_tracker) - ** Консольное хранилище(трекер) для заявок **
+⚡ ["Tracker"](https://github.com/Azamat-Sult/job4j_tracker) - **Консольное хранилище(трекер) для заявок**
 
 Стек: Java Core, PostgreSQL, H2db, Hibernate, JUnit
 
