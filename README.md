@@ -23,9 +23,9 @@
 
 Форум, развернутый на Heroku: [https://forumjob4j.herokuapp.com/](https://forumjob4j.herokuapp.com/)
 
-⚡ ["Car Sales"](https://github.com/Azamat-Sult/job4j_cars) - Площадка для размещения объявлений о продаже автомобилей подобный авто.ру или авито
+⚡ ["Car Sales"](https://github.com/Azamat-Sult/job4j_cars) - **Площадка для размещения объявлений о продаже автомобилей подобный авто.ру или авито**
 
-Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j, Checkstyle
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j
 
 ⚡ ["Todo List"](https://github.com/Azamat-Sult/job4j_todo) - **Планировщик задач ToDo**
 
