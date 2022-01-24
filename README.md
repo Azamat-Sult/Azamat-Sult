@@ -43,11 +43,11 @@
 
 Стек: Java Core, Concurrency, Sockets, Java IO
 
-⚡ ["Grabber"](https://github.com/Azamat-Sult/job4j_grabber) - Агрегатор вакансий Java разработчиков
+⚡ ["Grabber"](https://github.com/Azamat-Sult/job4j_grabber) - **Агрегатор вакансий Java разработчиков**
 
 Стек: Java Core, PostgreSQL, Quartz, JSOUP
 
-⚡ ["Tracker"](https://github.com/Azamat-Sult/job4j_tracker) - ***Консольное хранилище(трекер) для заявок***
+⚡ ["Tracker"](https://github.com/Azamat-Sult/job4j_tracker) - **Консольное хранилище(трекер) для заявок**
 
 Стек: Java Core, PostgreSQL, H2db, Hibernate, JUnit
 
