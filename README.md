@@ -45,11 +45,11 @@
 
 ⚡ ["Grabber"](https://github.com/Azamat-Sult/job4j_grabber) - Агрегатор вакансий Java разработчиков
 
-Стек: Java Core, PostgreSQL, JDBC, Quartz, JSOUP
+Стек: Java Core, PostgreSQL, Quartz, JSOUP
 
-⚡ ["Tracker"](https://github.com/Azamat-Sult/job4j_tracker) - Консольное хранилище(трекер) для заявок
+⚡ ["Tracker"](https://github.com/Azamat-Sult/job4j_tracker) - ### Консольное хранилище(трекер) для заявок
 
-Стек: Java Core, Checkstyle, PostgreSQL, H2db, Hibernate, JUnit
+Стек: Java Core, PostgreSQL, H2db, Hibernate, JUnit
 
 [![LeetCode user asultangareev](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fasultangareev&logo=leetcode&logoColor=yellow)](https://leetcode.com/asultangareev/)
 
