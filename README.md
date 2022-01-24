@@ -39,7 +39,7 @@
 
 Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
 
-⚡ ["Pooh JMS"](https://github.com/Azamat-Sult/job4j_pooh) - Аналог сервиса асинхронной очереди RabbitMQ
+⚡ ["Pooh JMS"](https://github.com/Azamat-Sult/job4j_pooh) - **Аналог сервиса асинхронной очереди RabbitMQ**
 
 Стек: Java Core, Concurrency, Sockets, Java IO
 
