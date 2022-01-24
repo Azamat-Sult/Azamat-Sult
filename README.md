@@ -27,17 +27,17 @@
 
 Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Apache FileUpload, Tomcat, PostgreSQL, Hibernate, Log4j, Checkstyle
 
-⚡ ["Todo List"](https://github.com/Azamat-Sult/job4j_todo) - Планировщик задач ToDo
+⚡ ["Todo List"](https://github.com/Azamat-Sult/job4j_todo) - **Планировщик задач ToDo**
 
-Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, H2db, Hibernate, Log4j, Checkstyle
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Hibernate, Log4j
 
-⚡ ["Cinema"](https://github.com/Azamat-Sult/job4j_cinema) - Сервис бронирования билетов в кинотеатр
+⚡ ["Cinema"](https://github.com/Azamat-Sult/job4j_cinema) - **Сервис бронирования билетов в кинотеатр**
 
-Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j
 
-⚡ ["Dream Job"](https://github.com/Azamat-Sult/job4j_dreamjob) - Биржа труда: вакансии и кандидаты
+⚡ ["Dream Job"](https://github.com/Azamat-Sult/job4j_dreamjob) - **Биржа труда: вакансии и кандидаты**
 
-Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j, Checkstyle
+Стек: Servlets, JSP, JSTL, JS, AJAX, GSON, Tomcat, PostgreSQL, Log4j
 
 ⚡ ["Pooh JMS"](https://github.com/Azamat-Sult/job4j_pooh) - **Аналог сервиса асинхронной очереди RabbitMQ**
 
