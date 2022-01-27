@@ -9,6 +9,10 @@
 
 Мои учебные проекты:
 
+⚡ ["Passport Service"](https://github.com/Azamat-Sult/job4j_rest_passport) - **Асинхронное взаимодействие микросервисов посредством брокера сообщений Kafka**
+
+Стек: Spring Boot 2.6.2 (Data JPA, Web, Validation), REST API, Kafka, PostgreSQL, JSON, JUnit, H2db, Maven
+
 ⚡ ["Chat REST API"](https://github.com/Azamat-Sult/job4j_chat) - **REST-сервис, реализующий чат c комнатами**
 
 Стек: Spring Boot 2.6.0 (Data JPA, Security, Web, Validation), REST API, JWT, PostgreSQL, GSON, JUnit, H2db, Maven
