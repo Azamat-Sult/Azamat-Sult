@@ -3,7 +3,7 @@
 ## Азамат Рафаилович Султангареев
 
 Стек применяемых технологий:
-## Java Core, Spring (Core, Boot, Data, Security), PostgreSQL, Hibernate, Kafka, Maven, HTML5, CSS3, JS, JQuery
+## Java Core, Spring (Core, Boot, Data, Security), PostgreSQL, Hibernate, Kafka, Docker, K8s, Maven, HTML5, CSS3, JS, JQuery
 
 Обучался около года под руководством [Пётра Арсентьева](https://github.com/peterarsentev) и его команды в проекте https://job4j.ru/.
 
@@ -15,7 +15,7 @@
 
 ⚡ ["Chat REST API"](https://github.com/Azamat-Sult/job4j_chat) - **REST-сервис, реализующий чат c комнатами**
 
-Стек: Spring Boot 2.6.0 (Data JPA, Security, Web, Validation), REST API, JWT, PostgreSQL, GSON, JUnit, H2db, Maven
+Стек: Spring Boot 2.6.0 (Data JPA, Security, Web, Validation), REST API, JWT, PostgreSQL, GSON, JUnit, H2db, Docker, K8s, Maven
 
 ⚡ ["Car Accident"](https://github.com/Azamat-Sult/job4j_car_accident) - **Приложение для регистрации ДТП**
 
