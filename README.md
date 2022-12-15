@@ -3,7 +3,7 @@
 ## Азамат Рафаилович Султангареев
 
 Стек применяемых технологий:
-## Java Core, Spring (Core, Boot, Data, Security, Cloud), PostgreSQL, Hibernate, Kafka, RabbitMQ, Docker, K8s, Maven, HTML5, CSS3, JS, JQuery, IntelliJ IDEA
+## Java Core, Spring (Core, Boot, Data, Security, Cloud), PostgreSQL, Hibernate, Kafka, RabbitMQ, Redis cache, Docker, K8s, Maven, HTML5, JS, JQuery, IntelliJ IDEA
 
 Обучался около года под руководством [Пётра Арсентьева](https://github.com/peterarsentev) и его команды в проекте https://job4j.ru/.
 
