@@ -9,6 +9,10 @@
 
 Мои учебные проекты:
 
+⚡ [Spring Cloud Simple Shopping App](https://github.com/Azamat-Sult/Spring-Cloud-Simple-Shopping-App) - **Микросервисное приложение, имитирующее работу онлайн магазина**
+
+Стек: Spring Boot 3.0.2 (Cloud, Data JPA), Keycloak, Hibernate, REST API, Kafka, PostgreSQL, Mongo DB, JSON, Lombok, Maven, Docker, Zipkin, Resilience4J, Prometheus, Grafana
+
 ⚡ [Spring Cloud Microservices](https://github.com/Azamat-Sult/spring-cloud-microservices) - **Микросервисное приложение, имитирующее работу банка**
 
 Стек: Spring Boot 2.3.2 (Cloud, Data JPA), Hibernate, REST API, RabbitMQ, PostgreSQL, JSON, Lombok, Gradle, Docker
