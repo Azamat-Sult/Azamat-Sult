@@ -13,6 +13,10 @@
 
 Стек: Spring Boot 3.0.2 (Cloud, Data JPA), Keycloak, Hibernate, REST API, Kafka, PostgreSQL, Mongo DB, JSON, Lombok, Maven, Docker, Zipkin, Resilience4J, Prometheus, Grafana
 
+⚡ [Spring Cloud For Fraud Check App](https://github.com/Azamat-Sult/Spring-Cloud-For-Fraud-Check-App) - **Микросервисное приложение для регистрации пользователей с "проверкой" на мошенничество**
+
+Стек: Spring Boot 2.5.7 (Cloud, Data JPA), Hibernate, REST API, RabbitMQ, PostgreSQL, Lombok, Maven, Docker, Zipkin, K8s
+
 ⚡ [Spring Cloud Microservices](https://github.com/Azamat-Sult/spring-cloud-microservices) - **Микросервисное приложение, имитирующее работу банка**
 
 Стек: Spring Boot 2.3.2 (Cloud, Data JPA), Hibernate, REST API, RabbitMQ, PostgreSQL, JSON, Lombok, Gradle, Docker
