@@ -19,6 +19,8 @@
 
 Стек: Spring Boot 2.3.2 (Cloud, Data JPA), Hibernate, REST API, RabbitMQ, PostgreSQL, JSON, Lombok, Gradle, Docker
 
+
+
 Обучался около года под руководством [Пётра Арсентьева](https://github.com/peterarsentev) и его команды в проекте https://job4j.ru/.
 
 Мои учебные проекты:
