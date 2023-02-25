@@ -5,9 +5,7 @@
 Стек применяемых технологий:
 ## Java Core, Spring (Core, Boot, Data, Security, Cloud), PostgreSQL, Hibernate, Kafka, RabbitMQ, Redis, Docker, K8s, Maven, IntelliJ IDEA
 
-Обучался около года под руководством [Пётра Арсентьева](https://github.com/peterarsentev) и его команды в проекте https://job4j.ru/.
-
-Мои учебные проекты:
+Микросервисные приложения:
 
 ⚡ [Spring Cloud Simple Shopping App](https://github.com/Azamat-Sult/Spring-Cloud-Simple-Shopping-App) - **Микросервисное приложение, имитирующее работу онлайн магазина**
 
@@ -20,6 +18,10 @@
 ⚡ [Spring Cloud Microservices](https://github.com/Azamat-Sult/spring-cloud-microservices) - **Микросервисное приложение, имитирующее работу банка**
 
 Стек: Spring Boot 2.3.2 (Cloud, Data JPA), Hibernate, REST API, RabbitMQ, PostgreSQL, JSON, Lombok, Gradle, Docker
+
+Обучался около года под руководством [Пётра Арсентьева](https://github.com/peterarsentev) и его команды в проекте https://job4j.ru/.
+
+Мои учебные проекты:
 
 ⚡ ["Passport Service"](https://github.com/Azamat-Sult/job4j_rest_passport) - **Асинхронное взаимодействие микросервисов посредством брокера сообщений Kafka**
 
